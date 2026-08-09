@@ -22,7 +22,7 @@ function App() {
       
       <div className="fade-in delay-1">
         <h1 className="title">Victor Ebiringa</h1>
-        <p className="bio">Creative Director | Motion Designer</p>
+        <p className="bio">Creator-Teacher</p>
       </div>
 
       <div className="social-links fade-in delay-2">
