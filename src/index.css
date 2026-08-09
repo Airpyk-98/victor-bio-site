@@ -92,6 +92,7 @@ body {
   width: 45px;
   height: 45px;
   border-radius: 50%;
+  overflow: hidden;
   background: var(--glass-bg);
   border: 1px solid var(--glass-border);
   color: var(--text-light);
